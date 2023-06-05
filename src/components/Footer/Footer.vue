@@ -28,7 +28,7 @@ export default {}
   width: 100%;
   border-top: 1px solid #efefef;
   position: fixed;
-  bottom: 0;
+  bottom: 50px;
   background-color: #fff;
   display: flex;
   justify-content: space-between;
@@ -50,6 +50,7 @@ export default {}
   min-width: 110px;
   border-radius: 25px;
   font-size: 12px;
+  background-color: #f18329;
 }
 
 .total-price {
